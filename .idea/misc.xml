@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server-8200/pom.xml" />
+        <option value="$PROJECT_DIR$/service-customer-8301/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-8201/pom.xml" />
+        <option value="$PROJECT_DIR$/service-customer-8302/pom.xml" />
+        <option value="$PROJECT_DIR$/service-order-8401/pom.xml" />
+        <option value="$PROJECT_DIR$/service-order-8402/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-8501/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-8560/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-ribbon-8570/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-feign-8580/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul-8600/pom.xml" />
+        <option value="$PROJECT_DIR$/config-service-8650/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-8655/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-8670/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-8671/pom.xml" />
+        <option value="$PROJECT_DIR$/s8680-zipkin-service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/8201-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/8301-service-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/8302-service-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/8401-service-order/pom.xml" />
+        <option value="$PROJECT_DIR$/8402-service-order/pom.xml" />
+        <option value="$PROJECT_DIR$/8501-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/8560-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/8570-hystrix-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/8580-hystrix-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/8600-service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/8650-config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/8655-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/8670-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/8671-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/s8680-zipkin-service-/pom.xml" />
+        <option value="$PROJECT_DIR$/s8681-zipkin-service-miya/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

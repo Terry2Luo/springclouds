@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/8655-config-client/config-client-8655.iml" filepath="$PROJECT_DIR$/8655-config-client/config-client-8655.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8670-config-server/config-server-8670.iml" filepath="$PROJECT_DIR$/8670-config-server/config-server-8670.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8650-config-service/config-service-8650.iml" filepath="$PROJECT_DIR$/8650-config-service/config-service-8650.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8201-eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/8201-eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8560-feign/feign-8560.iml" filepath="$PROJECT_DIR$/8560-feign/feign-8560.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8580-hystrix-feign/hystrix-feign-8580.iml" filepath="$PROJECT_DIR$/8580-hystrix-feign/hystrix-feign-8580.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8570-hystrix-ribbon/hystrix-ribbon-8570.iml" filepath="$PROJECT_DIR$/8570-hystrix-ribbon/hystrix-ribbon-8570.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8501-ribbon/ribbon-8501.iml" filepath="$PROJECT_DIR$/8501-ribbon/ribbon-8501.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8671-config-client/s8671-config-client.iml" filepath="$PROJECT_DIR$/8671-config-client/s8671-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8671-config-client/s8680-zipkin-service-hi.iml" filepath="$PROJECT_DIR$/8671-config-client/s8680-zipkin-service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8680-zipkin-service-myhi/s8680-zipkin-service-myhi.iml" filepath="$PROJECT_DIR$/s8680-zipkin-service-myhi/s8680-zipkin-service-myhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8681-zipkin-service-miya/s8681-zipkin-service-miya.iml" filepath="$PROJECT_DIR$/s8681-zipkin-service-miya/s8681-zipkin-service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" filepath="$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" filepath="$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8401-service-order/service-order.iml" filepath="$PROJECT_DIR$/8401-service-order/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8402-service-order/service-order-8402.iml" filepath="$PROJECT_DIR$/8402-service-order/service-order-8402.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8600-service-zuul/service-zuul-8600.iml" filepath="$PROJECT_DIR$/8600-service-zuul/service-zuul-8600.iml" />
+    </modules>
+  </component>
+</project>
