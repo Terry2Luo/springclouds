@@ -19,6 +19,8 @@
         <module name="s8680-zipkin-service-hi" />
         <module name="s8680-zipkin-service-myhi" />
         <module name="s8681-zipkin-service-miya" />
+        <module name="s8691-eureka-service-hign-availabe" />
+        <module name="s8692-zipkin-service-miya" />
         <module name="service-customer-8301" />
         <module name="service-customer-8302" />
         <module name="service-order" />
@@ -46,6 +48,8 @@
       <module name="s8680-zipkin-service-hi" target="1.8" />
       <module name="s8680-zipkin-service-myhi" target="1.8" />
       <module name="s8681-zipkin-service-miya" target="1.8" />
+      <module name="s8691-eureka-service-hign-availabe" target="1.8" />
+      <module name="s8692-zipkin-service-miya" target="1.8" />
       <module name="service-customer-8301" target="1.8" />
       <module name="service-customer-8302" target="1.8" />
       <module name="service-order" target="1.8" />
@@ -76,6 +80,8 @@
       <module name="s8680-zipkin-service-hi" options="-parameters" />
       <module name="s8680-zipkin-service-myhi" options="-parameters" />
       <module name="s8681-zipkin-service-miya" options="-parameters" />
+      <module name="s8691-eureka-service-hign-availabe" options="-parameters" />
+      <module name="s8692-zipkin-service-miya" options="-parameters" />
       <module name="service-customer-8301" options="-parameters" />
       <module name="service-customer-8302" options="-parameters" />
       <module name="service-order" options="-parameters" />
