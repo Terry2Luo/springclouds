@@ -34,9 +34,7 @@
         <option value="$PROJECT_DIR$/8670-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/8671-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/s8680-zipkin-service-/pom.xml" />
-        <option value="$PROJECT_DIR$/s8681-zipkin-service-miya/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/s8692-zipkin-service-miya/pom.xml" />
       </list>
     </option>
   </component>
