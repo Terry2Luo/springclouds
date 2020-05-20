@@ -1,0 +1,10 @@
+server:
+  port: 8692
+spring:
+  profiles: peer2
+eureka:
+  instance:
+    hostname: peer2
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8691/eureka/

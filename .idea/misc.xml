@@ -35,6 +35,8 @@
         <option value="$PROJECT_DIR$/8671-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/s8680-zipkin-service-/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/s8691-eureka-server-hign-availble/pom.xml" />
+        <option value="$PROJECT_DIR$/s8692-eureka-server-hign-availble/pom.xml" />
       </list>
     </option>
   </component>
