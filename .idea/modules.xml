@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/8671-config-client/s8680-zipkin-service-hi.iml" filepath="$PROJECT_DIR$/8671-config-client/s8680-zipkin-service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8680-zipkin-service-myhi/s8680-zipkin-service-myhi.iml" filepath="$PROJECT_DIR$/s8680-zipkin-service-myhi/s8680-zipkin-service-myhi.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8681-zipkin-service-miya/s8681-zipkin-service-miya.iml" filepath="$PROJECT_DIR$/s8681-zipkin-service-miya/s8681-zipkin-service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8681-zipkin-service-miya/s8691-eureka-service-hign-availabe.iml" filepath="$PROJECT_DIR$/s8681-zipkin-service-miya/s8691-eureka-service-hign-availabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8692-zipkin-service-miya/s8692-zipkin-service-miya.iml" filepath="$PROJECT_DIR$/s8692-zipkin-service-miya/s8692-zipkin-service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" filepath="$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" />
       <module fileurl="file://$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" filepath="$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" />
       <module fileurl="file://$PROJECT_DIR$/8401-service-order/service-order.iml" filepath="$PROJECT_DIR$/8401-service-order/service-order.iml" />
