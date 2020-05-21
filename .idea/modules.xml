@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/s8681-zipkin-service-miya/s8681-zipkin-service-miya.iml" filepath="$PROJECT_DIR$/s8681-zipkin-service-miya/s8681-zipkin-service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8691-eureka-server-hign-availble/s8691-eureka-server-hign-availble.iml" filepath="$PROJECT_DIR$/s8691-eureka-server-hign-availble/s8691-eureka-server-hign-availble.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8694-eureka-client-hign-availble/s8694-eureka-client-hign-availble.iml" filepath="$PROJECT_DIR$/s8694-eureka-client-hign-availble/s8694-eureka-client-hign-availble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8700-eureka-server-dashboard/s8700-eureka-server-dashboard.iml" filepath="$PROJECT_DIR$/s8700-eureka-server-dashboard/s8700-eureka-server-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8701-eureka-client-dashboard/s8701-eureka-client-dashboard.iml" filepath="$PROJECT_DIR$/s8701-eureka-client-dashboard/s8701-eureka-client-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" filepath="$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" />
       <module fileurl="file://$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" filepath="$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" />
       <module fileurl="file://$PROJECT_DIR$/8401-service-order/service-order.iml" filepath="$PROJECT_DIR$/8401-service-order/service-order.iml" />

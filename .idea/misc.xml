@@ -37,6 +37,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/s8691-eureka-server-hign-availble/pom.xml" />
         <option value="$PROJECT_DIR$/s8694-eureka-client-hign-availble/pom.xml" />
+        <option value="$PROJECT_DIR$/s8700-eureka-server-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/s8701-eureka-client-dashboard/pom.xml" />
       </list>
     </option>
   </component>
