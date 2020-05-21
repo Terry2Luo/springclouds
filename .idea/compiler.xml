@@ -20,7 +20,6 @@
         <module name="s8680-zipkin-service-myhi" />
         <module name="s8681-zipkin-service-miya" />
         <module name="s8691-eureka-server-hign-availble" />
-        <module name="s8692-eureka-server-hign-availble" />
         <module name="service-customer-8301" />
         <module name="service-customer-8302" />
         <module name="service-order" />

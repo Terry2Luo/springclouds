@@ -1,5 +1,6 @@
 server:
   port: 8691
+
 spring:
   profiles: peer1
 eureka:
