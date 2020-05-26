@@ -23,9 +23,6 @@
         <module name="s8694-eureka-client-hign-availble" />
         <module name="s8700-eureka-server-dashboard" />
         <module name="s8701-eureka-client-dashboard" />
-        <module name="s8711-eureka-client-hi-turbine" />
-        <module name="s8712-eureka-client-lucky-turbine" />
-        <module name="s8713-eureka-client-service-tuibine" />
         <module name="s8721-eureka-server-turbine" />
         <module name="s8722-eureka-client-hi-turbine" />
         <module name="s8723-eureka-client-lucy-turbine" />
