@@ -23,6 +23,13 @@
         <module name="s8694-eureka-client-hign-availble" />
         <module name="s8700-eureka-server-dashboard" />
         <module name="s8701-eureka-client-dashboard" />
+        <module name="s8711-eureka-client-hi-turbine" />
+        <module name="s8712-eureka-client-lucky-turbine" />
+        <module name="s8713-eureka-client-service-tuibine" />
+        <module name="s8721-eureka-server-turbine" />
+        <module name="s8722-eureka-client-hi-turbine" />
+        <module name="s8723-eureka-client-lucy-turbine" />
+        <module name="s8724-eureka-client-service-turbine" />
         <module name="service-customer-8301" />
         <module name="service-customer-8302" />
         <module name="service-order" />
@@ -57,6 +64,14 @@
       <module name="s8694-eureka-client-hign-availble" target="1.8" />
       <module name="s8700-eureka-server-dashboard" target="1.8" />
       <module name="s8701-eureka-client-dashboard" target="1.8" />
+      <module name="s8710-eureka-server-turbine" target="1.8" />
+      <module name="s8711-eureka-client-hi-turbine" target="1.8" />
+      <module name="s8712-eureka-client-lucky-turbine" target="1.8" />
+      <module name="s8713-eureka-client-service-tuibine" target="1.8" />
+      <module name="s8721-eureka-server-turbine" target="1.8" />
+      <module name="s8722-eureka-client-hi-turbine" target="1.8" />
+      <module name="s8723-eureka-client-lucy-turbine" target="1.8" />
+      <module name="s8724-eureka-client-service-turbine" target="1.8" />
       <module name="service-customer-8301" target="1.8" />
       <module name="service-customer-8302" target="1.8" />
       <module name="service-order" target="1.8" />
@@ -94,6 +109,10 @@
       <module name="s8694-eureka-client-hign-availble" options="-parameters" />
       <module name="s8700-eureka-server-dashboard" options="-parameters" />
       <module name="s8701-eureka-client-dashboard" options="-parameters" />
+      <module name="s8721-eureka-server-turbine" options="-parameters" />
+      <module name="s8722-eureka-client-hi-turbine" options="-parameters" />
+      <module name="s8723-eureka-client-lucy-turbine" options="-parameters" />
+      <module name="s8724-eureka-client-service-turbine" options="-parameters" />
       <module name="service-customer-8301" options="-parameters" />
       <module name="service-customer-8302" options="-parameters" />
       <module name="service-order" options="-parameters" />
