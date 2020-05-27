@@ -27,6 +27,8 @@
         <module name="s8722-eureka-client-hi-turbine" />
         <module name="s8723-eureka-client-lucy-turbine" />
         <module name="s8724-eureka-client-service-turbine" />
+        <module name="s8730-spring-admin" />
+        <module name="s8731-spring-admin-client" />
         <module name="service-customer-8301" />
         <module name="service-customer-8302" />
         <module name="service-order" />
@@ -69,6 +71,8 @@
       <module name="s8722-eureka-client-hi-turbine" target="1.8" />
       <module name="s8723-eureka-client-lucy-turbine" target="1.8" />
       <module name="s8724-eureka-client-service-turbine" target="1.8" />
+      <module name="s8730-spring-admin" target="1.8" />
+      <module name="s8731-spring-admin-client" target="1.8" />
       <module name="service-customer-8301" target="1.8" />
       <module name="service-customer-8302" target="1.8" />
       <module name="service-order" target="1.8" />
@@ -110,6 +114,8 @@
       <module name="s8722-eureka-client-hi-turbine" options="-parameters" />
       <module name="s8723-eureka-client-lucy-turbine" options="-parameters" />
       <module name="s8724-eureka-client-service-turbine" options="-parameters" />
+      <module name="s8730-spring-admin" options="-parameters" />
+      <module name="s8731-spring-admin-client" options="-parameters" />
       <module name="service-customer-8301" options="-parameters" />
       <module name="service-customer-8302" options="-parameters" />
       <module name="service-order" options="-parameters" />

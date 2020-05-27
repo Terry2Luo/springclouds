@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/s8722-eureka-client-hi-turbine/s8722-eureka-client-hi-turbine.iml" filepath="$PROJECT_DIR$/s8722-eureka-client-hi-turbine/s8722-eureka-client-hi-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8723-eureka-client-lucy-turbine/s8723-eureka-client-lucy-turbine.iml" filepath="$PROJECT_DIR$/s8723-eureka-client-lucy-turbine/s8723-eureka-client-lucy-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8724-eureka-client-service-turbine/s8724-eureka-client-service-turbine.iml" filepath="$PROJECT_DIR$/s8724-eureka-client-service-turbine/s8724-eureka-client-service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8730-spring-admin-server/s8730-spring-admin.iml" filepath="$PROJECT_DIR$/s8730-spring-admin-server/s8730-spring-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s8731-spring-admin-client/s8731-spring-admin-client.iml" filepath="$PROJECT_DIR$/s8731-spring-admin-client/s8731-spring-admin-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" filepath="$PROJECT_DIR$/8301-service-customer/service-customer-8301.iml" />
       <module fileurl="file://$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" filepath="$PROJECT_DIR$/8302-service-customer/service-customer-8302.iml" />
       <module fileurl="file://$PROJECT_DIR$/8401-service-order/service-order.iml" filepath="$PROJECT_DIR$/8401-service-order/service-order.iml" />

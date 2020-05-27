@@ -22,13 +22,12 @@
     <file url="file://$PROJECT_DIR$/s8694-eureka-client-hign-availble" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8700-eureka-server-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8701-eureka-client-dashboard" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/s8710-eureka-server-turbine" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/s8711-eureka-client-hi-turbine" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/s8712-eureka-client-lucky-turbine" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/s8713-eureka-client-service-tuibine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8721-eureka-server-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8722-eureka-client-hi-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8723-eureka-client-lucy-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8724-eureka-client-service-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8730-spring-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8731-spring-admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8731-spring-admin-client" charset="UTF-8" />
   </component>
 </project>

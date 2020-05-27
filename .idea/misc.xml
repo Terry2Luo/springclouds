@@ -43,6 +43,9 @@
         <option value="$PROJECT_DIR$/s8722-eureka-client-hi-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/s8723-eureka-client-lucy-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/s8724-eureka-client-service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/s8730-spring-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/s8730-spring-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/s8731-spring-admin-client/pom.xml" />
       </list>
     </option>
   </component>
