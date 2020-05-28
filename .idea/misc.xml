@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/s8750-spring-admin-clouds-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/s8751-spring-admin-clouds-admin-server/pom.xml" />
         <option value="$PROJECT_DIR$/s8752-spring-admin-clouds-eureka-client1/pom.xml" />
+        <option value="$PROJECT_DIR$/s8753-spring-admin-clouds-eureka-client-user2/pom.xml" />
       </list>
     </option>
   </component>

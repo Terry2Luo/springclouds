@@ -31,5 +31,6 @@
     <file url="file://$PROJECT_DIR$/s8750-spring-admin-clouds-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8751-spring-admin-clouds-admin-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8752-spring-admin-clouds-eureka-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8753-spring-admin-clouds-eureka-client-user2" charset="UTF-8" />
   </component>
 </project>
