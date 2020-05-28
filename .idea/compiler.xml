@@ -29,6 +29,9 @@
         <module name="s8724-eureka-client-service-turbine" />
         <module name="s8730-spring-admin" />
         <module name="s8731-spring-admin-client" />
+        <module name="s8750-spring-admin-clouds-eureka-server" />
+        <module name="s8751-spring-admin-clouds-admin-server" />
+        <module name="s8752-spring-admin-clouds-eureka-client1" />
         <module name="service-customer-8301" />
         <module name="service-customer-8302" />
         <module name="service-order" />
@@ -73,6 +76,10 @@
       <module name="s8724-eureka-client-service-turbine" target="1.8" />
       <module name="s8730-spring-admin" target="1.8" />
       <module name="s8731-spring-admin-client" target="1.8" />
+      <module name="s8750-spring-admin-clouds-eureka-server" target="1.8" />
+      <module name="s8751-spring-admin-clouds-admin-server" target="1.8" />
+      <module name="s8752-spring-admin-clouds-admin-server" target="1.8" />
+      <module name="s8752-spring-admin-clouds-eureka-client1" target="1.8" />
       <module name="service-customer-8301" target="1.8" />
       <module name="service-customer-8302" target="1.8" />
       <module name="service-order" target="1.8" />
@@ -116,6 +123,10 @@
       <module name="s8724-eureka-client-service-turbine" options="-parameters" />
       <module name="s8730-spring-admin" options="-parameters" />
       <module name="s8731-spring-admin-client" options="-parameters" />
+      <module name="s8750-spring-admin-clouds-eureka-server" options="-parameters" />
+      <module name="s8751-spring-admin-clouds-admin-server" options="-parameters" />
+      <module name="s8752-spring-admin-clouds-admin-server" options="-parameters" />
+      <module name="s8752-spring-admin-clouds-eureka-client1" options="-parameters" />
       <module name="service-customer-8301" options="-parameters" />
       <module name="service-customer-8302" options="-parameters" />
       <module name="service-order" options="-parameters" />

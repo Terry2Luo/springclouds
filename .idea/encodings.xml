@@ -28,6 +28,8 @@
     <file url="file://$PROJECT_DIR$/s8724-eureka-client-service-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8730-spring-admin-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s8731-spring-admin-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/s8731-spring-admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8750-spring-admin-clouds-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8751-spring-admin-clouds-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s8752-spring-admin-clouds-eureka-client1" charset="UTF-8" />
   </component>
 </project>
