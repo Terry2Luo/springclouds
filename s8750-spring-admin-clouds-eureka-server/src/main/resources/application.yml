@@ -9,6 +9,11 @@ eureka:
       defaultZone: http://localhost:8750/eureka
     register-with-eureka: false
     fetch-registry: false
+  # 默认值为true。设为false, 关闭自我保护， 从而保证会注销微服务
+  server:
+    enable-self-preservation: false
+  # 清理间隔（单位毫秒，默认是60 * 1000）。根据需求将时间间隔设置短些，例如：设置1秒，一旦down掉，则会立即注销
+    eviction-interval-timer-in-ms: 1000
 management:
   endpoints:
     web:

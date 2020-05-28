@@ -29,7 +29,7 @@ spring:
       notify:
         mail:
           from: luxing3@sina.com
-          to: luxing@irongwei.com
+          to: luxing3@sina.com
 server:
   port: 8751
 eureka:
@@ -52,6 +52,7 @@ management:
   endpoint:
     health:
       show-details: ALWAYS
+
 
 
 
